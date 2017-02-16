@@ -2,10 +2,10 @@
 
 To facilitate transparency to the student body, the constitution and bylaws of the Student Union organizations are hosted here.  
 
-### Constitution  
+## Constitution  
 [Constitution of the Undergraduate Student Union](https://ndstudgov.github.io/Constitution)
 
-### Student Union Organization Bylaws  
+## Student Union Organization Bylaws  
 * Executive Cabinet
 * Student Senate
 * Judicial Council
