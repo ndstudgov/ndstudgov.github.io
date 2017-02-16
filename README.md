@@ -18,7 +18,7 @@ To facilitate transparency to the student body, the constitution and bylaws of t
   * Senior Class Council
   * Junior Class Council
   * Sophomore Class Council
-  * Freshman Class Council
+  * Freshman Class Council  
 * Off Campus Council  
 
 ## Understanding Student Union Governance  
