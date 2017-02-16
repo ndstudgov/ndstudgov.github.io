@@ -33,6 +33,7 @@ Click on a document above to learn more!
 Beginning in Spring 2017, changes to the Constitution and bylaws have been tracked via github.  
 
 To view information about how the constitution & bylaws have changed or learn why a certain section exists, follow these steps:  
+
 1. Click on the document above.  
 2. Click on the button in the header that says "view on github." This will take you to the github repository. (A repository is a fancy word for a website that holds stuff.)  
 3. Click on the file ReadMe.md.   
