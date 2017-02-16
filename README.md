@@ -46,6 +46,7 @@ To view information about how the constitution & bylaws have changed or learn wh
 2. Select the correct repository. Check that you are in the master branch.
 3. Click on on the readme.md file.
 4. Click the edit icon and make your edits.
-5. Add a title and description, and select the option to create a new branch.
-6. You can continue to make edits within this branch! Once the change is approved, attach the appropriate documentation and create a pull request.
+5. Add a title and description noting the location of the edit and an informative title (e.g. Change 1.1(a) re: Campaign Finance)
+6. You can continue to make edits within this branch!  Once the change is approved create a pull request.
 7. Approve the pull request, and the change will be logged. The document is changed!
+8. Add documentation. Navigate to this change in the history and add comments and documents.
