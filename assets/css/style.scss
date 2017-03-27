@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 #nav {
-  overflow-y:scroll
-  bottom:0
+  width: 230px;
+  position: fixed;
+  top: 220px;
+  left: 50%;
+  margin-left: 580px;
+  text-align: right;
+  overflow-y:scroll;
+  bottom:0;
 }
