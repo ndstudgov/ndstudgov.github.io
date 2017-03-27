@@ -3,5 +3,6 @@
 
 @import "{{ site.theme }}";
 #nav {
-overflow:scroll
+  overflow-y:scroll
+  bottom:0
 }
