@@ -18,7 +18,7 @@ To facilitate transparency to the student body, the constitution and bylaws of t
   * Senior Class Council
   * Junior Class Council
   * Sophomore Class Council
-  * Freshman Class Council  
+  * Freshman Class Council
 * Off Campus Council  
 
 ## Understanding Student Union Governance  
@@ -41,7 +41,7 @@ To view information about how the constitution & bylaws have changed or learn wh
 5. Scroll through the history of the document!  
 6. If you want to learn more about why a change was made, click on it. Things taken away are in red, things added in green, and you can see supporting documents, such as resolutions and minutes, explaining why a change was made.
 
-### I Want to Change the Constitution/Bylaws
+## How to Change the Constitution/Bylaws
 1. Log in through your organization's github account.
 2. Select the correct repository. Check that you are in the master branch.
 3. Click on on the readme.md file.
